@@ -1,6 +1,6 @@
 # technicaltestC-C
 
-use Navigation bar to access Login page and Loss Types table.
+Use Navigation bar to access Login page and Loss Types table.
 
 Login not fully functional.
 

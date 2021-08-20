@@ -3,27 +3,27 @@
 }
 
 <div>
-    <h1 class="display-4">Login</h1>
+    <h1 class="display-4">Loss Information</h1>
     <table>
         <tr>
-            <th style="padding: 0 15px 0 15px;"> Loss Type ID </th>
+            <th style="border: 3px solid #dddddd; padding: 0 15px 0 15px;"> Loss Type ID </th>
             @foreach (var obj in (List<string>)ViewData["LossTypeId"])
                 {
-                <td style="padding: 0 15px 0 15px;">@obj</td>
+                    <td style="border: 3px solid #dddddd; padding: 0 15px 0 15px;">@obj</td>
                 }
         </tr>
         <tr>
-            <th style="padding: 0 15px 0 15px;"> Loss Type Code </th>
+            <th style="border: 3px solid #dddddd; padding: 0 15px 0 15px;"> Loss Type Code </th>
             @foreach (var obj in (List<string>)ViewData["LossTypeCode"])
                 {
-                <td style="padding: 0 15px 0 15px;">@obj</td>
+                    <td style="border: 3px solid #dddddd; padding: 0 15px 0 15px;">@obj</td>
                 }
         </tr>
         <tr>
-            <th style="padding: 0 15px 0 15px;"> Loss Type Description </th>
+            <th style="border: 3px solid #dddddd; padding: 0 15px 0 15px;"> Loss Type Description </th>
             @foreach (var obj in (List<string>)ViewData["lossTypeDescription"])
                 {
-                <td style="padding: 0 15px 0 15px;">@obj</td>
+                    <td style="border: 3px solid #dddddd; padding: 0 15px 0 15px;">@obj</td>
                 }
         </tr>
     </table>
