@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o4jH2spMhd6u8gQwoGCg+ddAjlFKh2IPMDs95Bp/CZOl/IxiSjMiWuL0TkygIx7fRv8Wz1+r3L0W605ESEBqLA==",
+  "dgSpecHash": "qw21bv2JGbKya7wGsPiq/62c01GYeAsj+TYIr4Ht/L4vjhrhIJHBtHYHz39ljgNky98umBB3Yez5C58qhLA8zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\source\\repos\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj",
+  "projectFilePath": "C:\\Users\\josep\\technicaltestC-C\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

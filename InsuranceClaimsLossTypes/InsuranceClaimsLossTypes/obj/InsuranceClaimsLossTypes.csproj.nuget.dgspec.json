@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\source\\repos\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj": {}
+    "C:\\Users\\josep\\technicaltestC-C\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\source\\repos\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj": {
+    "C:\\Users\\josep\\technicaltestC-C\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\source\\repos\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj",
+        "projectUniqueName": "C:\\Users\\josep\\technicaltestC-C\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj",
         "projectName": "InsuranceClaimsLossTypes",
-        "projectPath": "C:\\Users\\josep\\source\\repos\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj",
+        "projectPath": "C:\\Users\\josep\\technicaltestC-C\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\source\\repos\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\obj\\",
+        "outputPath": "C:\\Users\\josep\\technicaltestC-C\\InsuranceClaimsLossTypes\\InsuranceClaimsLossTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
