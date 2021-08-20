@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div style="padding: 0 20px 0 20px;">
+    <h1 class="display-4">Login</h1>
+    @using (Html.BeginForm())
+    {
+        <input type="text" placeholder="Username" name="userName" />
+        <input type="password" placeholder="Password" name="passWord" />
+        <input type="submit" />
+    }
+    <p class="text-black-50">@ViewData["Feedback"]</p>
+</div>
